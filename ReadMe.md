@@ -10,7 +10,7 @@
 ## Open Methodology:
 
 1. Understand the [open source culture](https://academia.edu/130285565/Open_Source_Culture) history.
-2. Study the ['Public Apps: Digital Public Infrastructure (DPI) Free Libre Open Source Software (FLOSS) Applications Applications'](https://www.academia.edu/158815102/Public_Apps) whitepaper.
+2. Study the ['Open Source Digital Public Infrastructure (DPI) Applications' whitepaper](https://www.academia.edu/158815102/Open_Source_Digital_Public_Infrastructure_OSDPI_) whitepaper.
 - Comply with the [public apps](https://dx.doi.org/10.17504/protocols.io.3byl48xo8vo5/v1) Springer Nature protocol. 
 - Create your local [open internet](https://www.academia.edu/143169562/Open_Internet) framework.
 
